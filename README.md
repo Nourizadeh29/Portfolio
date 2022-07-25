@@ -15,9 +15,9 @@ Site is responsive on various screens and devices
 Placeholders are acceptable, as this site will be updated as the course progresses
 
 ## Website Link
-https://nourizadeh29.github.io/Portfolio/
+
 ## Screenshot
-! [](Screenshot.png) 
+
 
 ## Github
 Nourizadeh29
